@@ -1,6 +1,6 @@
-### Hi there 👋,
+### Hi there 👋, I'm mon
 ---
-- 🌱 I’m currently learning Backend path.
+- 🌱 I’m currently learning To become an Engineer.
 - Studying Computing (Information Technology)
 - 📫 How to reach me: <br>
 <a href = "https://www.facebook.com/profile.php?id=100001113790621" target="blank">
