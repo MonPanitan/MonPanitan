@@ -17,12 +17,12 @@ looking forward to work with you in future :)
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=MonPanitan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Github stats:
+<!-- ### Github stats:
 ---
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MonPanitan&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monpanitan&layout=compact&theme=radical"/>
-</div>
+</div> -->
 
 
 
