@@ -6,7 +6,8 @@
 <a href = "https://www.facebook.com/profile.php?id=100001113790621" target="blank">
   <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png" height='30'/>
 </a>
-<a href="https://www.linkedin.com/in/nicha-songkiwattanapacharoen-5539b7204/" target="blank"><img src="https://i.imgur.com/a5jDgN0.png" height='30'></a>
+<a href="www.linkedin.com/in/panitan-sripoom" target="blank"><img src="https://i.imgur.com/a5jDgN0.png" height='30'></a>
+  <!-- https://www.linkedin.com/in/nicha-songkiwattanapacharoen-5539b7204/ -->
 <a href = "###" target="blank">
   <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
 </a>
