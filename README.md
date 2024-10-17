@@ -2,13 +2,16 @@
 ---
 - 🌱 I’m currently learning To become an Engineer.
 - Studying Computing (Information Technology)
-- 📫 How to reach me: <br>
+- 📫 How to reach me: <be>
+<!-- FACEBOOK -->
 <a href = "https://www.facebook.com/profile.php?id=100001113790621" target="blank">
   <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png" height='30'/>
 </a>
+<!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/panitan-sripoom/" target="blank"><img src="https://i.imgur.com/a5jDgN0.png" height='30'></a>
   <!-- https://www.linkedin.com/in/nicha-songkiwattanapacharoen-5539b7204/ -->
-<a href = "###" target="blank">
+  <!-- INSTAGRAM -->
+<a href = "https://www.instagram.com/pandaman.ps/" target="blank">
   <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
 </a>
 <br>
