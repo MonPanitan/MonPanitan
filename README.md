@@ -19,7 +19,8 @@ looking forward to work with you in future :)
 
 ### Github Trophy:
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=MonPanitan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MonPanitan&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- ### Github stats:
 ---
