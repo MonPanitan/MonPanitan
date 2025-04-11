@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm mon
 ---
 - 🌱 I’m currently learning To become an Engineer.
-- Studying Computing (Information Technology)
+- Studying Computing (Information Technology) at Technological University Dublin
 - 📫 How to reach me: <be>
 <!-- FACEBOOK -->
 <a href = "https://www.facebook.com/profile.php?id=100001113790621" target="blank">
